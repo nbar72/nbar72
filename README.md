@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Neeha! ✧(ᵔ◡ᵔ) </h1>
-<h4 align="center">A full-stack frontend developer who's eager to learn more</h4>
+<h4 align="center">A full-stack developer (with a preference for frontend) who's eager to learn more</h4>
 <h3 align="center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h5>
 
 - ✎ I’m currently working on **My Portfoilo, and developing ideas for a Visual Novel game**
